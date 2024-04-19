@@ -1,5 +1,5 @@
 {
-  "name": "@sklinet/strapi-plugin-tinymce",
+  "name": "@idtek/strapi-plugin-tinymce",
   "version": "1.0.7",
   "description": "Replaces the default Strapi WYSIWYG editor with a customized build of TinyMCE editor.",
   "private": false,
